@@ -15,7 +15,7 @@ MIT
     ├── environment.yml    <- The requirements file for reproducing the analysis environment.
     ├── setup.py           <- Makes project pip installable (pip install -e .)
     │                         so antartic_ist can be imported.
-    ├── tasks.py           <- Invoke with commands like `notebook`.
+    ├── pipeline.py        <- Pipeline of the project.
     ├── README.md          <- The top-level README for developers using this project.
     ├── install.md         <- Detailed instructions to set up the virtual
     |                         environment of this project.

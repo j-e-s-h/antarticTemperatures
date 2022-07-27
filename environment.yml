@@ -10,11 +10,9 @@ dependencies:
   - jupyter
   - jupyterlab
   - matplotlib
+  - netCDF4
   - numpy
   - pandas
   - pip
   - plotly
-  - python=3.9
-  - scipy
-  - seaborn
-  - sklearn 
+  - python=3.8
